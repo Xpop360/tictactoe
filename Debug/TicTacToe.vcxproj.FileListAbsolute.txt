@@ -1,0 +1,2 @@
+C:\Users\Asus\Desktop\Projetos\C++\TicTacToe\Debug\TicTacToe.exe
+C:\Users\Asus\Desktop\Projetos\C++\TicTacToe\Debug\TicTacToe.pdb
